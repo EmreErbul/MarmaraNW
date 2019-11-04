@@ -1,0 +1,29 @@
+{
+  "name": "elv0x",
+  "version": "1.0.0",
+  "description": "MarmaraBot",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "elv0x",
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "commando-provider-mongo": "^1.1.1",
+    "discord-bots-api": "0.0.2",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "figlet": "^1.2.4",
+    "jimp": "^0.8.5",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "mongodb": "^3.3.3",
+    "node-superfetch": "^0.1.9",
+    "simple-youtube-api": "^5.2.1",
+    "sqlite": "^3.0.3",
+    "weather-js": "^2.0.0",
+    "winston": "^3.2.1",
+    "ytdl-core": "^1.0.0"
+  }
+}
